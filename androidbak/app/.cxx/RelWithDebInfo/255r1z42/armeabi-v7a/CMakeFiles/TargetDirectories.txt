@@ -1,0 +1,2 @@
+/Users/egov/Documents/Project/sso_app/android/app/.cxx/RelWithDebInfo/255r1z42/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/egov/Documents/Project/sso_app/android/app/.cxx/RelWithDebInfo/255r1z42/armeabi-v7a/CMakeFiles/rebuild_cache.dir

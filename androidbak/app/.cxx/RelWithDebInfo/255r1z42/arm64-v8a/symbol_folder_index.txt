@@ -1,0 +1,1 @@
+/Users/egov/Documents/Project/sso_app/build/app/intermediates/cxx/RelWithDebInfo/255r1z42/obj/arm64-v8a
