@@ -69,7 +69,7 @@ Page resource error:
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('CCTV Kota Padang')),
+      appBar: AppBar(title: const Text('CCTV Kab. Kepulauan Mentawai')),
       body: SafeArea(
         bottom: false,
         child: Stack(

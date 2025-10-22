@@ -329,7 +329,7 @@ class LoginPageState extends State<LoginPage> {
                                       color: Colors.blueGrey, fontSize: 32)),
                             ),
                             const Center(
-                              child: Text('Single Sign On Kota Padang',
+                              child: Text('Single Sign On Kab. Kepulauan Mentawai',
                                   style: TextStyle(
                                       color: Colors.blueGrey, fontSize: 18)),
                             ),

@@ -240,7 +240,7 @@ class StateIndexIzinPresensi extends State<IndexIzinPresensi> {
                 Row(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
-                    Text('Pemerintah Kota Padang'),
+                    Text('Pemerintah Kab. Kepulauan Mentawai'),
                   ],
                 ),
               ],
